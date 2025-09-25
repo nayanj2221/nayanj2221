@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Nayan Jadhav</h1>
 <h3 align="center">Exploring Quantum Computing and Machine Learningoper from India</h3>
 
+---
+
+
+
+<img align="right" alt="Coding" width="405" height="250" src="https://nationalcioreview.com/wp-content/uploads/2025/01/TNCR-Staff-2.gif">
+
+<img align="right" alt="Coding" width="405" height="250" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
+
+
+<div style="clear: both;"></div> <!-- This clears the floated images -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
+
+
+
+---
+
 - 🔭 I’m currently working on **18_day_Qiskit Programming**
 
 - 🌱 I’m currently learning **Machine Learning**
